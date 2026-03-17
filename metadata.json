@@ -1,0 +1,5 @@
+{
+  "name": "Linguist AI",
+  "description": "A powerful language translation tool powered by Gemini AI with text-to-speech capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
